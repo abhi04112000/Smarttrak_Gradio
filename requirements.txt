@@ -1,5 +1,3 @@
-openai==0.28
 gradio
-os
-dotenv
-bert_score
+openai==0.28
+python-dotenv==0.19.1
